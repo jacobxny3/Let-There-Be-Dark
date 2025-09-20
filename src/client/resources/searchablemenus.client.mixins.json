@@ -1,0 +1,13 @@
+{
+	"required": true,
+	"package": "com.searchablemenus.mixin.client",
+	"compatibilityLevel": "JAVA_21",
+	"client": [
+		"TitleScreenMixin",
+		"ScreenTintMixin",
+		"ScreenAccessor"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
